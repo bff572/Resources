@@ -1,56 +1,56 @@
 # > OpenAI
 
 
-host-keyword, openai, 人工智能
-host-suffix, recaptcha.net, 人工智能
+host-keyword, openai, OpenAI
+host-suffix, recaptcha.net, OpenAI
 host-suffix, openai.com, 人工智能
-host-suffix, cloudflare.hcaptcha.com, 人工智能
-host-suffix, auth0.openai.com, 人工智能
-host-suffix, chat.openai.com, 人工智能
-host-suffix, hcaptcha.com, 人工智能
-host-suffix, o33249.ingest.sentry.io, 人工智能
-host-suffix, ingest.sentry.io, 人工智能
-host-suffix, ai.com, 人工智能
-host-suffix, vimeo.com, 人工智能
-host-suffix, vimeocdn.com, 人工智能
-host-suffix, hcaptcha.com, 人工智能
-host-suffix, akamaized.com, 人工智能
-host, cdn.auth0.com, 人工智能
-host, openaiapi-site.azureedge.net, 人工智能
-host-suffix, gstatic.com, 人工智能
-host-suffix, googletagmanager.com, 人工智能
-host-suffix, f7tk.com, 人工智能
-host-suffix, doubleclick.com, 人工智能
-host-suffix, google-analytics.com, 人工智能
-host-suffix,dashboard.openai.com, 人工智能
-host-suffix,gravatar.com, 人工智能
-host-suffix,cloudflare.com, 人工智能
-host-suffix,stripe.com, 人工智能
-host-suffix,segment.io, 人工智能
-host-suffix,sentry-cdn.com, 人工智能
-host-suffix,twilio.com, 人工智能
-host-suffix,cloudfront.net, 人工智能
-host-suffix,jquery.com, 人工智能
-host-suffix,google-analytics.com, 人工智能
-host-suffix,cloudflareinsights.com, 人工智能
-host-suffix,ravenjs.com, 人工智能
-host-suffix,unpkg.com, 人工智能
-host-suffix,amazonaws.com, 人工智能
-host-suffix,jsdelivr.net, 人工智能
-host-suffix,analytics.google.com, 人工智能
-host-suffix,px-cloud.net, 人工智能
-host-suffix,chat.openai.com, 人工智能
-host,openaicom-api.*, 人工智能
-host-suffix,openai-files-prod-public.s3-us-west-2.amazonaws.com, 人工智能
-host-suffix,openai-production.s3.amazonaws.com, 人工智能
-host-suffix,openaicom-production-westus.azureedge.net, 人工智能
-host-suffix,openaicom-api-fd-cefkg5c4cydtafam.z01.azurefd.net, 人工智能
-host-suffix,openai.egnyte.com, 人工智能
-host-suffix,production-openaicom-storage.azureedge.net, 人工智能
-host-suffix,openaicomproductionae4b.blob.core.windows.net, 人工智能
-host-suffix,openai-natural-language-generation-2.azureedge.net, 人工智能
-host-suffix,openai-nlg-datasets.s3-us-west-2.amazonaws.com, 人工智能
-host-suffix,openai-gpt-3-sandbox.s3-us-west-2.amazonaws.com, 人工智能
-host-suffix,openai-api-files-public.s3-us-west-2.amazonaws.com, 人工智能
-host-suffix,openai-api-files-prod-public.s3-us-west-2.amazonaws.com, 人工智能
-host-suffix,openai-models-public.s3.us-west-2.amazonaws.com, 人工智能
+host-suffix, cloudflare.hcaptcha.com, OpenAI
+host-suffix, auth0.openai.com, OpenAI
+host-suffix, chat.openai.com, OpenAI
+host-suffix, hcaptcha.com, OpenAI
+host-suffix, o33249.ingest.sentry.io, OpenAI
+host-suffix, ingest.sentry.io, OpenAI
+host-suffix, ai.com, OpenAI
+host-suffix, vimeo.com, OpenAI
+host-suffix, vimeocdn.com, OpenAI
+host-suffix, hcaptcha.com, OpenAI
+host-suffix, akamaized.com, OpenAI
+host, cdn.auth0.com, OpenAI
+host, openaiapi-site.azureedge.net, OpenAI
+host-suffix, gstatic.com, OpenAI
+host-suffix, googletagmanager.com, OpenAI
+host-suffix, f7tk.com, OpenAI
+host-suffix, doubleclick.com, OpenAI
+host-suffix, google-analytics.com, OpenAI
+host-suffix,dashboard.openai.com, OpenAI
+host-suffix,gravatar.com, OpenAI
+host-suffix,cloudflare.com, OpenAI
+host-suffix,stripe.com, OpenAI
+host-suffix,segment.io, OpenAI
+host-suffix,sentry-cdn.com, OpenAI
+host-suffix,twilio.com, OpenAI
+host-suffix,cloudfront.net, OpenAI
+host-suffix,jquery.com, OpenAI
+host-suffix,google-analytics.com, OpenAI
+host-suffix,cloudflareinsights.com, OpenAI
+host-suffix,ravenjs.com, OpenAI
+host-suffix,unpkg.com, OpenAI
+host-suffix,amazonaws.com, OpenAI
+host-suffix,jsdelivr.net, OpenAI
+host-suffix,analytics.google.com, OpenAI
+host-suffix,px-cloud.net, OpenAI
+host-suffix,chat.openai.com, OpenAI
+host,openaicom-api.*, OpenAI
+host-suffix,openai-files-prod-public.s3-us-west-2.amazonaws.com, OpenAI
+host-suffix,openai-production.s3.amazonaws.com, OpenAI
+host-suffix,openaicom-production-westus.azureedge.net, OpenAI
+host-suffix,openaicom-api-fd-cefkg5c4cydtafam.z01.azurefd.net, OpenAI
+host-suffix,openai.egnyte.com, OpenAI
+host-suffix,production-openaicom-storage.azureedge.net, OpenAI
+host-suffix,openaicomproductionae4b.blob.core.windows.net, OpenAI
+host-suffix,openai-natural-language-generation-2.azureedge.net, OpenAI
+host-suffix,openai-nlg-datasets.s3-us-west-2.amazonaws.com, OpenAI
+host-suffix,openai-gpt-3-sandbox.s3-us-west-2.amazonaws.com, OpenAI
+host-suffix,openai-api-files-public.s3-us-west-2.amazonaws.com, OpenAI
+host-suffix,openai-api-files-prod-public.s3-us-west-2.amazonaws.com, OpenAI
+host-suffix,openai-models-public.s3.us-west-2.amazonaws.com, OpenAI
